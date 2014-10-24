@@ -1,0 +1,4 @@
+services:
+#    fit_clubs_index.example:
+#        class: FitClubs\Bundle\IndexBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]

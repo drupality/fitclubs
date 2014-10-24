@@ -1,2 +1,6 @@
+fit_clubs_index:
+    resource: "@FitClubsIndexBundle/Resources/config/routing.yml"
+    prefix:   /
+
 
 
