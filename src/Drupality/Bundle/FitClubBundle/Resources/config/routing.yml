@@ -1,3 +1,0 @@
-drupality_fit_club_homepage:
-    path:     /hello/{name}
-    defaults: { _controller: DrupalityFitClubBundle:Default:index }
