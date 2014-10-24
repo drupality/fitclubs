@@ -20,11 +20,11 @@ FitClubs\Bundle\ClubBundle\Entity\Club:
             type: string
             length: 255
         geolat:
-            type: float
+            type: decimal
             precision: 10
             scale: 6
         geolng:
-            type: float
+            type: decimal
             precision: 10
             scale: 6
     lifecycleCallbacks: {  }
