@@ -1,0 +1,30 @@
+FitClubs\Bundle\ClubBundle\Entity\Club:
+    type: entity
+    table: null
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        name:
+            type: string
+            length: '255'
+        description:
+            type: text
+        city:
+            type: string
+            length: 255
+        address:
+            type: string
+            length: 255
+        geolat:
+            type: float
+            precision: 10
+            scale: 6
+        geolng:
+            type: float
+            precision: 10
+            scale: 6
+    lifecycleCallbacks: {  }
