@@ -1,0 +1,4 @@
+drupality_fit_club:
+    resource: "@DrupalityFitClubBundle/Resources/config/routing.yml"
+    prefix:   /
+
