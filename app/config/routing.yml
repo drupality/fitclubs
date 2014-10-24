@@ -1,3 +1,7 @@
+fit_clubs_hp:
+    resource: "@FitClubsHPBundle/Resources/config/routing.yml"
+    prefix:   /
+
 drupality_fit_club:
     resource: "@DrupalityFitClubBundle/Resources/config/routing.yml"
     prefix:   /

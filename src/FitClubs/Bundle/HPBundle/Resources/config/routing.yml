@@ -1,0 +1,3 @@
+fit_clubs_hp_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: FitClubsHPBundle:Default:index }
